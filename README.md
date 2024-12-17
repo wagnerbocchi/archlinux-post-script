@@ -1,4 +1,4 @@
-# archlinux-post-script
+# Archlinux-post-script
  
 # Script de Pós-Instalação do Arch Linux
 
