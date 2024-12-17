@@ -18,17 +18,10 @@ Este script automatiza a instalação e configuração de pacotes e programas es
 
 ## Como usar
 
-1. Clone este repositório: `git clone https://github.com/seu_usuario/seu_repositorio.git`
-2. Navegue até o diretório do repositório: `cd seu_repositorio`
+1. Clone este repositório: `git clone https://github.com/wagnerbocchi/archlinux-post-script.git`
+2. Navegue até o diretório do repositório: `cd archlinux-post-script`
 3. Torne o script executável: `chmod +x pos-instalacao.sh`
 4. Execute o script: `./pos-instalacao.sh`
-
-## Personalização
-
-* **Edite o script:** Abra o arquivo `pos-instalacao.sh` em um editor de texto e modifique-o de acordo com suas preferências.
-* **Adicione pacotes:** Inclua os pacotes que você deseja instalar nas seções apropriadas do script.
-* **Remova pacotes:** Remova os pacotes que você não precisa do script.
-* **Modifique configurações:** Ajuste as configurações do sistema, como drivers, serviços e personalização do terminal, conforme necessário.
 
 ## Observações
 
